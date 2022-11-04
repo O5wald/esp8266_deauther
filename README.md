@@ -86,30 +86,6 @@ Use it only against your own networks and devices!
 Please check the legal regulations in your country before using it.  
 We don't take any responsibility for what you do with this program.  
 
-## Acknowledgements
-
-A huge thanks to:  
-
-- [@deantonious](http://github.com/deantonious)
-- [@jLynx](https://github.com/jLynx)
-- [@lspoplove](https://github.com/lspoplove)
-- [@schinfo](https://github.com/schinfo)
-- [@tobozo](https://github.com/tobozo)
-- [@xdavidhu](https://github.com/xdavidhu)
-- [@PwnKitteh](https://github.com/PwnKitteh)
-
-for helping out with various things regarding this project and keeping it alive!  
-Also thanks to everyone working on the libraries used for this project:  
-
-- [esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306)
-- [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
-- [Adafruit_DotStar](https://github.com/adafruit/Adafruit_DotStar)
-- [Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
-- [DS3231](https://github.com/NorthernWidget/DS3231)
-- [my92xx](https://github.com/xoseperez/my92xx)
-
-We also thank Espressif and their community for this awesome chip and all the software and hardware projects around it and the countless tutorials you can find online!  
-
 ## License 
 
 This software is licensed under the MIT License. See the [license file](LICENSE) for details.  
